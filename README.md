@@ -9,7 +9,7 @@ Aspiring frontend developer with absolutely no experience whatsoever. Studying H
 I learned English at ten-years-old, Spanish at thirteen, and gave up Japanese at sixteen. Now it's time to venture far beyond the frontiers of the human language... it's time to learn how to speak to computers.
 
 Here's a summary of my studies:
-###### Under construction... ######
+###### Sector under construction... ######
 
 
 
@@ -25,7 +25,7 @@ Here's a summary of my studies:
   Aprendi inglês aos 10 anos, espanhol aos 13, e desisti de aprender japonês aos 16. Agora é hora de explorar muito além das fronteiras da linguagem humana... tá na hora de aprender a falar com os computadores.
   
   Eis um resumo de meus estudos:
-  ###### Em construção... ######
+  ###### Setor em construção... ######
 
 
 
